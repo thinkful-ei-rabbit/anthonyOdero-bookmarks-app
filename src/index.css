@@ -1,5 +1,10 @@
 body {
     margin: 0;
+    width: 80%;
+}
+
+div {
+    border-color: black;
 }
 
 nav {
@@ -7,6 +12,13 @@ nav {
     padding-left: 0;
   }
 
- nav img {
+ img {
+    width: 100%;
+  }
 
+  li {
+      list-style: none;
+  }
+  h1 {
+      font-size: 108;
   }
